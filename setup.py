@@ -20,8 +20,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name = 'mlproject',
     version= '0.0.1',
-    author ='Priyanshu',
-    author_email='priyanshu1303d@gmail.com',
+    author ='Radhika sharma',
+    author_email='Radhikasharma01246@gmail.com',
     packages = find_packages(),
     install_requires = get_requirements('requirements.txt'),
 )
